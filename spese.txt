@@ -1,0 +1,6 @@
+Data;Categoria;Descrizione;Importo
+22/09/2010;Viaggio;affari in Grecia;1230,80
+13/10/2018;Vitto;pranzo meeting;65,20
+04/11/2020;Alloggio;meeting Roma;500,30
+16/03/2016;Altro;acquisto materiale;59,60
+15/04/2018;Viaggio;affari in Spagna;3283,90
