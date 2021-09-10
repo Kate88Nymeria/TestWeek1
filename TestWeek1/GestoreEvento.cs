@@ -62,7 +62,7 @@ namespace TestWeek1
                     string file = reader.ReadToEnd();
                     string[] righe = file.Split("\r\n");
 
-                    for (int i = 1; i < righe.Length - 1; i++)
+                    for (int i = 1; i < righe.Length ; i++)
                     {
                         string[] dati = righe[i].Split(";");
                         DateTime.TryParse(dati[0], out DateTime data);

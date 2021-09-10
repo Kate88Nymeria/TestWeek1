@@ -13,12 +13,11 @@ namespace TestWeek1.Handler
         {
             if (s.Importo > 1000.0 && s.Importo <= 2500)
             {
+                LivelloApprovazione = "CEO";
                 return true;
             }
-            else
-            {
-                return base.Handle(s);
-            }
+            
+            return base.Handle(s);
         }
     }
 }

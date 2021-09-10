@@ -1,5 +1,6 @@
 Data;Categoria;Descrizione;Approvazione;LvlApprov;ImportoRimborsato
-22/09/2010;Viaggio;affari in Grecia;RESPINTA;-;0
-13/10/2018;Vitto;pranzo meeting;RESPINTA;-;0
-04/11/2020;Alloggio;meeting Roma;RESPINTA;-;0
-16/03/2016;Altro;acquisto materiale;APPROVATA;Altro;5,96
+22/09/2010;Viaggio;affari in Grecia;APPROVATA;CEO;1280,8
+13/10/2018;Vitto;pranzo meeting;APPROVATA;Manager;45,64
+04/11/2020;Alloggio;meeting Roma;APPROVATA;Operational Manager;500,3
+16/03/2016;Altro;acquisto materiale;APPROVATA;Manager;5,96
+15/04/2018;Viaggio;affari in Spagna;RESPINTA;-;-

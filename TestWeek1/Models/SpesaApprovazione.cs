@@ -16,7 +16,7 @@ namespace TestWeek1.Models
         {
             string stringaImporto;
 
-            if(importo == null)
+            if(importo == 0.0)
             {
                 stringaImporto = "-";
             }

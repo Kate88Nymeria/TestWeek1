@@ -11,6 +11,7 @@ namespace TestWeek1.Handler
     {
         public Spesa SpesaDaApprovare { get; set; }
         public bool Approvazione { get; }
+        public string LivelloApprovazione { get; set; }
 
         IHandler SetNext(IHandler handler);
         bool Handle(Spesa s);

@@ -16,8 +16,6 @@ namespace TestWeek1
             };
 
             fsw.EnableRaisingEvents = true;
-            fsw.NotifyFilter = NotifyFilters.LastWrite | NotifyFilters.LastAccess |
-                NotifyFilters.DirectoryName | NotifyFilters.FileName;
 
             fsw.Created += GestoreEvento.GestisciNuovoFile;
 
